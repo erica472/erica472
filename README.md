@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @e.sierra
+- 👋 Hi, I’m @erica472
 - 👀 I’m interested in ...HTML, Bootstrap, CSS
 - 🌱 I’m currently learning ... HTML, Bootstrap, CSS
 - 💞️ I’m looking to collaborate on ...
